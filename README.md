@@ -1,1 +1,1 @@
-# Inteligencia_Artificial_pr-ctica2
+# Inteligencia_Artificial_practica2
